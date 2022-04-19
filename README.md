@@ -6,11 +6,11 @@ GoGuide项目的组织形式包括以下部分。每部分通过基本知识介�
 
 ## 一、Go语言基础
 
-### [Go语言基础](docs\golang-basis\golang-basis.md)
+### [Go语言基础](docs/golang-basis/golang-basis.md)
 
 ## 二、Go并发编程
 
-### [Go语言并发编程](docs\golang-concurrent\concurrent.md)
+### [Go语言并发编程](docs/golang-concurrent/concurrent.md)
 
 ## 三、Go常用包使用
 
